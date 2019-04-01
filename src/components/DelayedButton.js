@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
 
 export default class DelayedButton extends Component {
@@ -20,3 +21,13 @@ export default class DelayedButton extends Component {
   }
 
 }
+=======
+// Code DelayedButton Component Here
+import React {component} from 'react';
+
+class DelayedButton extends React.Component {
+
+}
+
+import default DelayedButton;
+>>>>>>> 337ec0660e3fd7a3e873cefb6ac0b1e05e602807
